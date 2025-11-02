@@ -1,0 +1,35 @@
+node_modules/
+.expo/
+.expo-shared/
+dist/
+*.jks
+*.p8
+*.p12
+*.key
+*.mobileprovision
+*.orig.*
+web-build/
+
+# macOS
+.DS_Store
+
+# Temporary files
+*.log
+*.tmp
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Environment variables
+.env
+.env.local
+
+# IDE
+.vscode/
+.idea/
+
+# Documentation (opsiyonel - saklamak isterseniz silebilirsiniz)
+# EXPO_*.md
+# GITHUB_*.md
+# UYGULAMA_*.md
+# YUKLEME_*.md

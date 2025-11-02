@@ -1,0 +1,34 @@
+{
+  "expo": {
+    "name": "Mobil Uygulama",
+    "slug": "mobil",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "extra": {
+      "eas": {
+        "projectId": "a0eed29a-bfb5-4db2-811f-c94e49b6e1fc"
+      }
+    },
+    "splash": {
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.mobiluygulama.app"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#ffffff"
+      },
+      "package": "com.mobiluygulama.app",
+      "permissions": []
+    },
+    "web": {}
+  }
+}
+
